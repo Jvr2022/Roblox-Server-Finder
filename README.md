@@ -3,4 +3,4 @@ Alternative branches are simply some small variable changes along with manifest 
 
 they will no longer be updated.
 
-All Rights Reserved, Copyright (c) 2021 Theron Akubuiro
+All Rights Reserved, Copyright (c) 2024 Theron Akubuiro
